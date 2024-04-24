@@ -1,3 +1,14 @@
+
+# Organograma
+
+Organograma é uma aplicação front-end usada para construir interfaces da estrutura organizacional de uma empresa. A aplicação consiste em um formulário, no qual o usuário irá preenchê-lo e, após enviá-lo, será visualizado um componente com o nome, cargo e foto do usuário.
+
+## Layout Web
+
+<div align="center">
+  <img src="https://github.com/vittorhonorato/Organograma/assets/120854832/2d4ee9b8-45e6-4f03-a138-306c5c18e721" width= "700px" />
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
